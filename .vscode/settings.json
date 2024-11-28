@@ -23,7 +23,7 @@
         "/workspace/bootstrap/nuget/MyGet.ps1"
     ],
     "taskExplorer.enabledTasks": {
-        "ant": false,
+        "ant": true,
         "bash": false,
         "batch": false,
         "composer": false,
